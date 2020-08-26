@@ -53,8 +53,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MovePaddle.cs" />
-    <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
+    <Compile Include="Assets\Scripts\SoundManager.cs" />
+    <Compile Include="Assets\Scripts\AIPaddle.cs" />
+    <Compile Include="Assets\Scripts\SplashScreen.cs" />
+    <Compile Include="Assets\Scripts\ContinuePlayingMusic.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
